@@ -1,0 +1,7 @@
+ls
+ls | more
+clear
+ps
+ls -al
+ls -l | wc
+history
